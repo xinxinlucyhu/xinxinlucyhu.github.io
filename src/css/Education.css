@@ -1,0 +1,54 @@
+.educationpage{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+.educhildpage{
+    
+        display: flex;
+        flex-direction:column;
+        margin-top:60px ;
+        margin-left: 15px;
+      
+ 
+}
+
+.edu{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    max-width: 70rem;
+   
+}
+.eduwords{
+    display: flex;
+    flex-direction:column;
+    align-items: flex-start;
+    
+}
+
+.university{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.eduimg{
+    width: 70%;
+    height: 90%;
+    margin-left: 100px;
+}
+.collegeimg{
+   margin-left: 0px; 
+}
+.eduimgdiv{
+    max-width: 30rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-left: 20px;
+  
+}
+

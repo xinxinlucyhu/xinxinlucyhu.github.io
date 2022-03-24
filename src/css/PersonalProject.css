@@ -1,0 +1,35 @@
+.teampage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.teamprojectimg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+}
+#carouselExampleCaptions{
+    max-width:60rem;
+    height: 40rem;
+    margin-bottom: 50px;
+}
+.d-block{
+    height:40rem;
+}
+.teamtext{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items:center;
+    margin-top: 60px;
+}
+.projectlink{
+    margin-top: 20px;
+    text-align: center;
+}
+
+
