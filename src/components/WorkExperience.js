@@ -23,7 +23,7 @@ class WorkExperience extends Component {
             </div>
             <hr></hr>
             <div className="workimgdiv">
-              <img className="workimg" src={businesscard}></img>
+              <img className="workimg" src={businesscard} alt="businesscard"></img>
 
             </div>
 
@@ -43,7 +43,7 @@ class WorkExperience extends Component {
               <hr></hr>
             </div>
             <div className='workimgdiv'>
-              <img className="workimg" src={coach}></img>
+              <img className="workimg" src={coach} alt="coach"></img>
             </div>
           </div>
 

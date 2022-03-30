@@ -18,7 +18,7 @@ class PersonalProject extends Component {
             </ol>
             <div className="carousel-inner">
               <div className="carousel-item active">
-                <img src={ghiblistudio} alt="ghiblistudio" className="d-block w-100" alt="ghiblistudio"></img>
+                <img src={ghiblistudio}  className="d-block w-100" alt="ghiblistudio"></img>
                 <div class="carousel-caption d-none d-md-block">
                 </div>
                 <div className='projectlink'>
@@ -42,7 +42,7 @@ class PersonalProject extends Component {
                 <div className="carousel-caption d-none d-md-block">
                 </div>
                 <div className='projectlink'>
-                <a href=""><u><h4>Lucy's coffee shop</h4></u></a>
+                <a href="https://github.com/xinxinlucyhu/lucys-coffeeshop"><u><h4>Lucy's coffee shop</h4></u></a>
                   <p>React, SpringBoot, Api, Database</p>
                 </div>
               </div>

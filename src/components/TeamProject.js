@@ -20,33 +20,33 @@ class TeamProject extends Component {
             </ol>
             <div className="carousel-inner">
               <div className="carousel-item active">
-                <img src={blog} alt="ghiblistudio" className="d-block w-100" alt="ghiblistudio"></img>
+                <img src={blog} className="d-block w-100" alt="blog"></img>
                 <div class="carousel-caption d-none d-md-block">
                 </div>
                 <div className='projectlink'>
-                  <a href=""><u><h4>Blog</h4></u></a>
+                  <a href="https://github.com/xinxinlucyhu/blog"><u><h4>Blog</h4></u></a>
                   <p>Database, SpringBoot with Thymeleaf</p>
                 </div>
               </div>
 
 
               <div className="carousel-item">
-                <img src={weatherapi3} className="d-block w-100" alt="retirement"></img>
+                <img src={weatherapi3} className="d-block w-100" alt="weatherapi"></img>
                 <div className="carousel-caption d-none d-md-block">
                 </div>
                 <div className='projectlink'>
-                  <a href=""><u><h4>WeatherApi</h4></u></a>
+                  <a href="https://github.com/xinxinlucyhu/weatherapp"><u><h4>WeatherApi</h4></u></a>
                   <p>SpringBoot with Thymeleaf</p>
                 </div>
               </div>
 
 
               <div className="carousel-item">
-                <img src={address3} className="d-block w-100" alt="lucyscoffee"></img>
+                <img src={address3} className="d-block w-100" alt="addressbook"></img>
                 <div className="carousel-caption d-none d-md-block">
                 </div>
                 <div className='projectlink'>
-                  <a href=""><u><h4>Address Book</h4></u></a>
+                  <a href="https://github.com/xinxinlucyhu/addressbook"><u><h4>Address Book</h4></u></a>
                   <p>SpringBoot with Thymeleaf, Database</p>
                 </div>
               </div>

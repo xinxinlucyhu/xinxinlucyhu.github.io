@@ -7,9 +7,11 @@
 .workpagechild{
     display: flex;
     flex-direction:column;
-    margin-top:50px ;
-    margin-left: 15px;
+    justify-content: center;
+    margin-top:60px ;
+    margin-left: 50px;
     margin-right:15px;
+    margin-bottom: 30px;
     
 }
 .worktour{
@@ -18,9 +20,13 @@
     justify-content:center;
     align-items: flex-start;
     flex-wrap: wrap;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     margin-left: 50px;
     max-width: 70rem;
+    padding-bottom: 20px;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
 }
 .workwords{
     display: flex;
@@ -28,12 +34,12 @@
     align-items: flex-start;    
 }
 .workimg{
-    width: 70%;
+    width: 100%;
     height: 70%;
     border-radius: 10px;
 }
 .workimgdiv{
-   max-width: 30rem;
+   max-width: 25rem;
    display: flex;
    flex-direction: row;
    justify-content: flex-start;

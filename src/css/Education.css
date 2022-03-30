@@ -9,7 +9,7 @@
     
         display: flex;
         flex-direction:column;
-        margin-top:60px ;
+        margin-top:40px ;
         margin-left: 15px;
       
  
@@ -22,6 +22,9 @@
     align-items: flex-start;
     flex-wrap: wrap;
     max-width: 70rem;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
    
 }
 .eduwords{
@@ -34,6 +37,7 @@
 .university{
     margin-top: 50px;
     margin-bottom: 50px;
+    padding-bottom: 50px;
 }
 .eduimg{
     width: 70%;
