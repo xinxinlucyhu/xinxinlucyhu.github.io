@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ecda460.css",
+    "main.js": "/static/js/main.95dd289f.js",
+    "static/media/ghiblistudio.png": "/static/media/ghiblistudio.be7c46861428cbad4f3f.png",
+    "static/media/retirement.png": "/static/media/retirement.6130575635c5c9214fa3.png",
+    "static/media/lucyscoffee.png": "/static/media/lucyscoffee.2f1ae5daeeeb6fd9399b.png",
+    "static/media/weatherapi3.png": "/static/media/weatherapi3.0b44c5c5b638aa64dce9.png",
+    "static/media/blog.png": "/static/media/blog.4e36137379cac3aa5337.png",
+    "static/media/coach.jpg": "/static/media/coach.0ff9b0a6bf8366e20920.jpg",
+    "static/media/address3.png": "/static/media/address3.09f2d1c81c5fd0b704a7.png",
+    "static/media/businesscard.jpg": "/static/media/businesscard.4d9adeb5d4ab9f40ba14.jpg",
+    "index.html": "/index.html",
+    "main.0ecda460.css.map": "/static/css/main.0ecda460.css.map",
+    "main.95dd289f.js.map": "/static/js/main.95dd289f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ecda460.css",
+    "static/js/main.95dd289f.js"
+  ]
+}
