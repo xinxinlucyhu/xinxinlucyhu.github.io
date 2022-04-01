@@ -18,7 +18,7 @@ class Education extends Component {
           </div>
           <hr></hr>
           <div className='eduimgdiv'>
-           <img className="eduimg" src="https://titus.techtalentsouth.com/pluginfile.php/2/course/section/139/TTS-Identity-FullColor-HorizontalStack.png"></img>
+           <img className="eduimg" alt="techtalentsouth" src="https://titus.techtalentsouth.com/pluginfile.php/2/course/section/139/TTS-Identity-FullColor-HorizontalStack.png"></img>
           </div>
         </div>
 
@@ -35,7 +35,7 @@ class Education extends Component {
           </div>
           <hr></hr>
           <div className='eduimgdiv'>
-            <img className="collegeimg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXsnkFN4EWMVIfwB5mVv4KEN1-Z4Nyy3bo5d37CisiB70imsqVJppyb9VXiyr1vUnIPs&usqp=CAU"></img>
+            <img className="collegeimg" alt="college" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXsnkFN4EWMVIfwB5mVv4KEN1-Z4Nyy3bo5d37CisiB70imsqVJppyb9VXiyr1vUnIPs&usqp=CAU"></img>
           </div>
         </div>
 

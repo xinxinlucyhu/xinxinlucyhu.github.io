@@ -34,7 +34,7 @@ class Home extends Component {
           <p>Chinese(native)</p>
           <p>English(advanced)</p>
           <p>Business Foreign Language Translation Skill Certified</p>
-          <img className='homeimg' src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHdvcmslMjBmcm9tJTIwaG9tZXxlbnwwfHwwfHw%3D&w=1000&q=80"></img>
+          <img className='homeimg' alt="coffee and computer" src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHdvcmslMjBmcm9tJTIwaG9tZXxlbnwwfHwwfHw%3D&w=1000&q=80"></img>
         </div>
       </div>
       </div>
